@@ -1,4 +1,4 @@
-input/*
-model/*
-*.csv
+input/digits/*
+model/*.h5
+model/*.json
 evaluations/*
